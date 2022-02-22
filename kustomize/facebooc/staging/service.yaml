@@ -8,4 +8,4 @@ spec:
     port: 16000
     protocol: TCP
     targetPort: 16000
-  type: LoadBalancer
+  type: NodePort
