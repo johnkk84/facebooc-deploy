@@ -6,6 +6,7 @@ spec:
   ports:
   - name: "16000"
     port: 16000
+    nodePort: 32000
     protocol: TCP
     targetPort: 16000
   type: NodePort
