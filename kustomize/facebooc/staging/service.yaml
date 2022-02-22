@@ -5,7 +5,7 @@ metadata:
 spec:
   ports:
   - name: "16000"
-    port: 8080
+    port: 16000
     protocol: TCP
     targetPort: 16000
   type: LoadBalancer
